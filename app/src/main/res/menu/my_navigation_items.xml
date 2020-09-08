@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/recent_request"
+        android:icon="@drawable/recently_viewed"
+        android:title="Recent" />
+    <item
+        android:id="@+id/trusted_contacts"
+        android:icon="@drawable/contact"
+        android:title="Contact" />
+    <item
+        android:id="@+id/how_to_use"
+        android:icon="@drawable/help"
+        android:title="How To Use"/>
+    <item
+        android:id="@+id/request"
+        android:icon="@drawable/ic_request_black_24dp"
+        android:title="Request"/>
+</menu>
